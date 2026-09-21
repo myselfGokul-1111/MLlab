@@ -1,0 +1,10 @@
+# Datasets
+datasets/*
+!datasets/.gitkeep
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
